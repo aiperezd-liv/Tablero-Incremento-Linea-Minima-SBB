@@ -1,0 +1,6 @@
+{
+  "name": "Canvas de Presentación: Test Línea Mínima SBB",
+  "description": "Canvas interactivo de presentación para stakeholders del Test de Incremento de Línea Mínima (SBB Departamental), con bloques visuales, notas rápidas y dashboard de métricas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
